@@ -21,6 +21,6 @@
 ## 코드 참고
 - 실습 코드는 아래 코드를 참고하여 제작하였습니다.
   - [https://github.com/rasbt/LLMs-from-scratch](LLMs from scratch)
-    - https://www.youtube.com/watch?v=yAcWnfsZhzo(강의)
+    - [https://www.youtube.com/watch?v=yAcWnfsZhzo](강의)
   - [https://github.com/rickiepark/llm-from-scratch](밑바닥부터 만들면서 배우는 LLM)
-    - https://youtu.be/R80Gfde4cpg?list=PLJN246lAkhQhgakhcxz-5GwG_NYuJgSv1(한글 강의)
+    - [https://youtu.be/R80Gfde4cpg?list=PLJN246lAkhQhgakhcxz-5GwG_NYuJgSv1](한글 강의)
